@@ -35,3 +35,5 @@ Create & download your project from https://aspnetboilerplate.com/Templates
 # License
 
 [MIT](LICENSE).
+
+test
